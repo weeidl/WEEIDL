@@ -2,6 +2,8 @@
 
 ## I'm an Android programmer
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=weeidl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages and Tools
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05151e?style=for-the-badge&logo=Kotlin)
 ![Java](https://img.shields.io/badge/-Java-05151e?style=for-the-badge&logo=Java)
