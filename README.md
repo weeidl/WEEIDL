@@ -3,7 +3,7 @@
 ## I'm an Android programmer
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=weeidl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weeidl)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05151e?style=for-the-badge&logo=Kotlin)
