@@ -9,4 +9,5 @@
 ![Python](https://img.shields.io/badge/-Python-05151e?style=for-the-badge&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-05151e?style=for-the-badge&logo=Git)
 
-Follow Me
+### Follow Me
+[![instagram](https://img.shields.io/badge/-instagram-05151e?style=for-the-badge&logo=instagram)](https://www.instagram.com/weeidl/)
