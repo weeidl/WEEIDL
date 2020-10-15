@@ -1,6 +1,6 @@
 ![Header](https://github.com/weeidl/weeidl/blob/main/assets/ava.png)
 
-## I'm an Android programmer
+## I am a future Android developer
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weeidl)](https://github.com/anuraghazra/github-readme-stats)
