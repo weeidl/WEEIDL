@@ -8,6 +8,7 @@
 ### Follow Me
 [![instagram](https://img.shields.io/badge/-instagram-05151e?style=for-the-badge&logo=instagram)](https://www.instagram.com/weeidl/)
 [![Telegram](https://img.shields.io/badge/-Telegram-05151e?style=for-the-badge&logo=Telegram)](https://t.me/weeidl)
+[![Gmail](https://img.shields.io/badge/-Telegram-05151e?style=for-the-badge&logo=Gmail)](https://t.me/weeidl)
 
 ### Languages and Tools
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05151e?style=for-the-badge&logo=Kotlin)
