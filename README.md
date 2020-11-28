@@ -2,7 +2,7 @@
 
 ## I'm an Android developer
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/weeidl?username=weeidl)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/?username=weeidl)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weeidl)](https://github.com/anuraghazra/github-readme-stats)
 
