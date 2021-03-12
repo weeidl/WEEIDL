@@ -2,8 +2,7 @@
 
 ## I'm an Android developer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weeidl&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weeidl&hide=python,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weeidl&layout=compact&theme=react&hide=python,html)](https://github.com/weeidl)
 
 ### Follow Me
 [![instagram](https://img.shields.io/badge/-instagram-05151e?style=for-the-badge&logo=instagram)](https://www.instagram.com/weeidl/)
