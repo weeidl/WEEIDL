@@ -3,6 +3,7 @@
 # I'm a flutter developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weeidl&layout=compact&theme=algolia&hide=python)](https://github.com/weeidl)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05151e?style=for-the-badge&logo=Kotlin)
