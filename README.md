@@ -2,7 +2,7 @@
 
 # I'm a flutter developer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weeidl&layout=compact&theme=algolia&bg_color=0f256e&hide=python)](https://github.com/weeidl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weeidl&layout=compact&bg_color=0f256e&hide=python)](https://github.com/weeidl)
 
 <a href= "https://github.com/anuraghazra/github-readme-stats">
   <img align = " center " src = " https://github-readme-stats.vercel.app/api/pin/?username=weeidl&repo=github-readme-stats " />
