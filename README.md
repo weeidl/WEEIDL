@@ -1,8 +1,8 @@
 ![Header](https://github.com/weeidl/weeidl/blob/main/assets/weeidl.jpg)
 
-## I'm an Android developer
+# I'm an Android developer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weeidl&layout=compact&theme=react&hide=python,html)](https://github.com/weeidl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weeidl&layout=compact&theme=react&hide=python)](https://github.com/weeidl)
 
 ### Follow Me
 [![instagram](https://img.shields.io/badge/-instagram-05151e?style=for-the-badge&logo=instagram)](https://www.instagram.com/weeidl/)
