@@ -5,10 +5,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weeidl&layout=compact&hide_border=true&card_width=1000&theme=dark&text_color=ffffff&bg_color=DEG,0c1b4a,114c96&hide=python)](https://github.com/weeidl)
 
 ### Languages and Tools
+![ANDROID](https://img.shields.io/badge/-Android-0c1b4a?style=for-the-badge&logo=Android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0c1b4a?style=for-the-badge&logo=Kotlin)
 ![Java](https://img.shields.io/badge/-Java-0c1b4a?style=for-the-badge&logo=Java)
-![Firebase](https://img.shields.io/badge/-Firebase-0c1b4a?style=for-the-badge&logo=Firebase)
+![DART](https://img.shields.io/badge/-Dart-0c1b4a?style=for-the-badge&logo=Dart)
+![FLUTTER](https://img.shields.io/badge/-Flutter-0c1b4a?style=for-the-badge&logo=Flutter)
 ![Python](https://img.shields.io/badge/-Python-0c1b4a?style=for-the-badge&logo=Python)
+![C](https://img.shields.io/badge/-C-0c1b4a?style=for-the-badge&logo=C)
+![Firebase](https://img.shields.io/badge/-Firebase-0c1b4a?style=for-the-badge&logo=Firebase)
 ![Git](https://img.shields.io/badge/-Git-0c1b4a?style=for-the-badge&logo=Git)
 
 ### Follow Me
