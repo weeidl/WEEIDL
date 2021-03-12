@@ -6,12 +6,12 @@
 
 ### Languages and Tools
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0c1b4a?style=for-the-badge&logo=Kotlin)
-![Java](https://img.shields.io/badge/-Java-05151e?style=for-the-badge&logo=Java)
-![Firebase](https://img.shields.io/badge/-Firebase-05151e?style=for-the-badge&logo=Firebase)
-![Python](https://img.shields.io/badge/-Python-05151e?style=for-the-badge&logo=Python)
-![Git](https://img.shields.io/badge/-Git-05151e?style=for-the-badge&logo=Git)
+![Java](https://img.shields.io/badge/-Java-0c1b4a?style=for-the-badge&logo=Java)
+![Firebase](https://img.shields.io/badge/-Firebase-0c1b4a?style=for-the-badge&logo=Firebase)
+![Python](https://img.shields.io/badge/-Python-0c1b4a?style=for-the-badge&logo=Python)
+![Git](https://img.shields.io/badge/-Git-0c1b4a?style=for-the-badge&logo=Git)
 
 ### Follow Me
-[![instagram](https://img.shields.io/badge/-instagram-05151e?style=for-the-badge&logo=instagram)](https://www.instagram.com/weeidl/)
-[![Telegram](https://img.shields.io/badge/-Telegram-05151e?style=for-the-badge&logo=Telegram)](https://t.me/weeidl)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05151e?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/weeidl/)
+[![instagram](https://img.shields.io/badge/-instagram-0c1b4a?style=for-the-badge&logo=instagram)](https://www.instagram.com/weeidl/)
+[![Telegram](https://img.shields.io/badge/-Telegram-0c1b4a?style=for-the-badge&logo=Telegram)](https://t.me/weeidl)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0c1b4a?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/weeidl/)
