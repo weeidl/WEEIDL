@@ -18,4 +18,5 @@
 ### Follow Me
 [![instagram](https://img.shields.io/badge/-instagram-0c1b4a?style=for-the-badge&logo=instagram)](https://www.instagram.com/weeidl/)
 [![Telegram](https://img.shields.io/badge/-Telegram-0c1b4a?style=for-the-badge&logo=Telegram)](https://t.me/weeidl)
+[![Github](https://img.shields.io/badge/-GitHub-0c1b4a?style=for-the-badge&logo=GitHub)](https://github.com/weeidl)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0c1b4a?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/weeidl/)
