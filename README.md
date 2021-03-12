@@ -1,4 +1,4 @@
-![Header](https://github.com/weeidl/weeidl/blob/main/assets/Cover.jpg)
+![Header](https://github.com/weeidl/weeidl/blob/main/assets/weeidl.jpg)
 
 ## I'm an Android developer
 
