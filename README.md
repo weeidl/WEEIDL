@@ -8,10 +8,10 @@
 ![ANDROID](https://img.shields.io/badge/-Android-0c1b4a?style=for-the-badge&logo=Android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0c1b4a?style=for-the-badge&logo=Kotlin)
 ![Java](https://img.shields.io/badge/-Java-0c1b4a?style=for-the-badge&logo=Java)
-![DART](https://img.shields.io/badge/-Dart-0c1b4a?style=for-the-badge&logo=Dart)
 ![FLUTTER](https://img.shields.io/badge/-Flutter-0c1b4a?style=for-the-badge&logo=Flutter)
-![Python](https://img.shields.io/badge/-Python-0c1b4a?style=for-the-badge&logo=Python)
+![DART](https://img.shields.io/badge/-Dart-0c1b4a?style=for-the-badge&logo=Dart)
 ![C](https://img.shields.io/badge/-C-0c1b4a?style=for-the-badge&logo=C)
+![Python](https://img.shields.io/badge/-Python-0c1b4a?style=for-the-badge&logo=Python)
 ![Firebase](https://img.shields.io/badge/-Firebase-0c1b4a?style=for-the-badge&logo=Firebase)
 ![Git](https://img.shields.io/badge/-Git-0c1b4a?style=for-the-badge&logo=Git)
 
