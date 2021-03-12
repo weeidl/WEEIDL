@@ -2,7 +2,7 @@
 
 # I'm a flutter developer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weeidl&layout=compact&bg_color=DEG,0f256e,1ac3e4&hide=python)](https://github.com/weeidl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weeidl&layout=compact&bg_color=DEG,0c1b4a,114c96&hide=python)](https://github.com/weeidl)
 
 ### Languages and Tools
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05151e?style=for-the-badge&logo=Kotlin)
